@@ -1,4 +1,4 @@
-# 특화 프로젝트 D202
+
 ![016](https://user-images.githubusercontent.com/68943993/231980305-2bf20024-4c3d-46c6-ace4-ca133b7c23c9.png)
 # :rocket: 프로젝트 소개
 ## :pencil2: 점점 증가하는 다문화 학생들을 위한 교육 앱 'URIDA' :pencil2:
